@@ -1,0 +1,1 @@
+//Logicas cosas utiles extras a la interfaz o al carrito
